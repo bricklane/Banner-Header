@@ -1,0 +1,81 @@
+html {
+            -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+.left-menu {
+    margin-top: 30%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    border-top: solid;
+    border-bottom: solid;
+}
+
+.left-menu:hover {
+      background: #59c6b4;
+}
+
+.right-menu {
+    margin-top: 30%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    border-top: solid;
+    border-bottom: solid;
+
+}
+
+.center-menu {
+    padding-top: 25%;
+}
+
+.right-menu:hover {
+    background: #59c6b4;
+}
+
+
+.header-nav {
+    display: inline-block;
+    border-bottom: solid;
+    padding-top: 2%;
+    word-spacing: 50px;
+    padding-left: 3%;
+    padding-right:3%;
+}
+
+.nav-header-3 {
+    display: inline-block;
+    border-bottom: solid;
+    padding-top: 2%;
+    word-spacing: 50px;
+    padding-left: 3%;
+    padding-right:3%;
+    margin-left: 10%;
+}
+
+.logo {
+    width: 120%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+.narrow-header {
+    margin-top: 2%;
+    padding-top: 2%;
+}
+
+.stacked-header {
+    margin-top: 2%;
+    padding-top: 2%;
+    margin-bottom: 40%;
+}
+
+.header-title {
+    padding-left: 5%;
+    font-size: 30px;
+    background-color: #1F004C;
+    color: white;
+    text-align: right;
+}
